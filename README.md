@@ -4,10 +4,12 @@ An amazing landing page created by react JS with animations
 
 ## Features
   * Dark Mode
-  * Great animations by Framer Motion library
+  * Responsive layout design for optimal viewing on different screen sizes.
+  * An attract design and animation that make user more comfortable.
 
 ## Skills
   * React JS
+  * Tailwind CSS
   * Framer Motion
 
 Demo : https://khayre-ddine.github.io/Landing_Pages
