@@ -1,6 +1,6 @@
-import React, {  useState } from "react";
+import React, { useState } from "react";
 import logo from "../../images/logo2.svg";
-import Definition from "./Definition/Definition";
+import Definition from "../Definition/Definition";
 import frepeek from "../../images/freepik--Character--inject-119.svg";
 import frepeek2 from "../../images/freepik--Character--inject-2.svg";
 import brain from "../../images/brain.png";
