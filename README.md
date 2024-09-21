@@ -1,6 +1,6 @@
 # Landing Page
 
-An amazing landing page with animations created by react JS 
+An amazing landing page created by react JS with animations 
 
 ## Features
   * Dark Mode
