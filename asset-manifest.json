@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing_Page/static/css/main.45690bbe.css",
+    "main.css": "/Landing_Page/static/css/main.2a2aa413.css",
     "main.js": "/Landing_Page/static/js/main.3f57a83a.js",
     "static/media/plan.svg": "/Landing_Page/static/media/plan.66eefd446e77f0667b71680cee9229e7.svg",
     "static/media/math4.svg": "/Landing_Page/static/media/math4.8dc6d0255d4113385d2fc31b82a65a91.svg",
@@ -23,11 +23,11 @@
     "static/media/freepik--Earth--inject-2.svg": "/Landing_Page/static/media/freepik--Earth--inject-2.fc6a8f1731af94ba8da6c3d6dfab5e7c.svg",
     "static/media/logo2.svg": "/Landing_Page/static/media/logo2.c26c4fa92c364f108d3ea685ffc3845f.svg",
     "index.html": "/Landing_Page/index.html",
-    "main.45690bbe.css.map": "/Landing_Page/static/css/main.45690bbe.css.map",
+    "main.2a2aa413.css.map": "/Landing_Page/static/css/main.2a2aa413.css.map",
     "main.3f57a83a.js.map": "/Landing_Page/static/js/main.3f57a83a.js.map"
   },
   "entrypoints": [
-    "static/css/main.45690bbe.css",
+    "static/css/main.2a2aa413.css",
     "static/js/main.3f57a83a.js"
   ]
 }
