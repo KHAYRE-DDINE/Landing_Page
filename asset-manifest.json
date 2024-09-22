@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Landing_Page/static/css/main.45690bbe.css",
+    "main.js": "/Landing_Page/static/js/main.3f57a83a.js",
+    "static/media/plan.svg": "/Landing_Page/static/media/plan.66eefd446e77f0667b71680cee9229e7.svg",
+    "static/media/math4.svg": "/Landing_Page/static/media/math4.8dc6d0255d4113385d2fc31b82a65a91.svg",
+    "static/media/x2.svg": "/Landing_Page/static/media/x2.2445ff78d002943da5b646651cce7743.svg",
+    "static/media/math3.svg": "/Landing_Page/static/media/math3.e5c059dafbcb4c046092e1a715bbfa4a.svg",
+    "static/media/xy.svg": "/Landing_Page/static/media/xy.e5c059dafbcb4c046092e1a715bbfa4a.svg",
+    "static/media/atom.svg": "/Landing_Page/static/media/atom.032b7658469d85c759777901af9a8f65.svg",
+    "static/media/math.svg": "/Landing_Page/static/media/math.8e0d07ca48b8838193acaa6b0f5c8aed.svg",
+    "static/media/dashboard.png": "/Landing_Page/static/media/dashboard.e7d5d9bddc8a3bd973ca.png",
+    "static/media/Frame.svg": "/Landing_Page/static/media/Frame.c7473a8b682b2cdf8d33edc51f1caba7.svg",
+    "static/media/Frame 55.svg": "/Landing_Page/static/media/Frame 55.dfb60b062acfb82654003576ef040e1e.svg",
+    "static/media/brain.png": "/Landing_Page/static/media/brain.ebcf039fbe05e5a4d787.png",
+    "static/media/chimie.svg": "/Landing_Page/static/media/chimie.3c66412c6d4afe1cbb396bbaca4034e5.svg",
+    "static/media/math2.svg": "/Landing_Page/static/media/math2.8ad2bc23f0858f696eded56689cc9d0c.svg",
+    "static/media/setting.svg": "/Landing_Page/static/media/setting.a3304db6ff1d63f18dd228efef7dbc84.svg",
+    "static/media/freepik--Character--inject-2.svg": "/Landing_Page/static/media/freepik--Character--inject-2.eb5b8a201c786639ed79576aa4d16d9a.svg",
+    "static/media/function.svg": "/Landing_Page/static/media/function.923645ab9050659bc98e4111b4a36786.svg",
+    "static/media/math5.svg": "/Landing_Page/static/media/math5.923645ab9050659bc98e4111b4a36786.svg",
+    "static/media/freepik--Character--inject-119.svg": "/Landing_Page/static/media/freepik--Character--inject-119.1672f5b4366a3295dc6e69083cf82965.svg",
+    "static/media/freepik--Earth--inject-2.svg": "/Landing_Page/static/media/freepik--Earth--inject-2.fc6a8f1731af94ba8da6c3d6dfab5e7c.svg",
+    "static/media/logo2.svg": "/Landing_Page/static/media/logo2.c26c4fa92c364f108d3ea685ffc3845f.svg",
+    "index.html": "/Landing_Page/index.html",
+    "main.45690bbe.css.map": "/Landing_Page/static/css/main.45690bbe.css.map",
+    "main.3f57a83a.js.map": "/Landing_Page/static/js/main.3f57a83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45690bbe.css",
+    "static/js/main.3f57a83a.js"
+  ]
+}
