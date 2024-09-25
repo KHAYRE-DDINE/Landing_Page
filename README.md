@@ -1,6 +1,6 @@
 # Landing Page
 
-An amazing landing page created by react JS with animations 
+An amazing landing page created by react JS.
 
 ## Features
   * Dark Mode
@@ -12,6 +12,6 @@ An amazing landing page created by react JS with animations
   * Tailwind CSS
   * Framer Motion
 
-Demo        : https://khayre-ddine.github.io/Landing_Pages
+Demo        : https://khayre-ddine.github.io/Landing_Page
 
 Code Source : https://github.com/KHAYRE-DDINE/Landing_Page
