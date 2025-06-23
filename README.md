@@ -1,13 +1,11 @@
 # 🚀 Al Rihla Landing Page
 
-
 ## 🔗 Demo
 
 - **Live Site:** [Al Rihla Landing Page](https://khayre-ddine.github.io/Landing_Page)
 - **Source Code:** [GitHub Repository](https://github.com/KHAYRE-DDINE/Landing_Page)
 
 ---
-
 
 A modern, animated, and responsive landing page for the **Al Rihla** educational platform, built with React, Tailwind CSS, and Framer Motion. This project showcases a beautiful user experience with dark mode, multi-language support (English & Arabic), and engaging animations.
 
