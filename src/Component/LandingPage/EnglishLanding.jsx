@@ -22,8 +22,12 @@ import teach1 from "../../images/Frame.svg";
 import { useScroll, motion, useMotionValueEvent } from "framer-motion";
 import { GoMoon } from "react-icons/go";
 import { TfiShine } from "react-icons/tfi";
+import { BsGlobe } from "react-icons/bs";
+import { useContext } from "react";
+import { setLanguageContext } from "../../App";
 
 function EnglishLanding({ active, setActive }) {
+  const setPlatformLanguage = useContext(setLanguageContext);
   const [isDark, setIsDark] = useState(true);
   const [yProgress, setProgress] = useState(0);
   const { scrollYProgress } = useScroll();
@@ -71,8 +75,17 @@ function EnglishLanding({ active, setActive }) {
             <TfiShine />
           </button>
         </div>
-        <div className="btn cursor-pointer bg-colorBlue-600">
-          <button>Join beta</button>
+        <div className="flex items-center gap-4">
+          <button
+            className={`p-2 rounded-full ${isDark ? "text-white hover:bg-[#9e9e9e47]" : "text-gray-700 hover:bg-gray-200"}`}
+            onClick={() => setPlatformLanguage("arabic")}
+            title="Switch to Arabic"
+          >
+            <BsGlobe className="text-xl" />
+          </button>
+          <div className="btn cursor-pointer bg-colorBlue-600">
+            <button onClick={() => window.location.href = "https://khayre-ddine.github.io/Dashboard/"}>Join beta</button>
+          </div>
         </div>
       </div>
       <motion.div
@@ -125,7 +138,7 @@ function EnglishLanding({ active, setActive }) {
               name="email"
               placeholder="Enter your email"
             />
-            <button className="join bg-colorBlue-600">Join beta</button>
+            <button className="join bg-colorBlue-600" onClick={() => window.location.href = "https://khayre-ddine.github.io/Dashboard/"}>Join beta</button>
           </form>
           <button
             className={`sales ${
@@ -611,7 +624,7 @@ function EnglishLanding({ active, setActive }) {
               name="email"
               placeholder="Enter your email"
             />
-            <button className="join bg-colorBlue-600">Join beta</button>
+            <button className="join bg-colorBlue-600" onClick={() => window.location.href = "https://khayre-ddine.github.io/Dashboard/"}>Join beta</button>
           </motion.form>
           <motion.button
             variants={{
@@ -671,7 +684,7 @@ function EnglishLanding({ active, setActive }) {
           </li>
         </ul>
         <div className="btn bg-colorBlue-600">
-          <button>Join beta</button>
+          <button onClick={() => window.location.href = "https://khayre-ddine.github.io/Dashboard/"}>Join beta</button>
         </div>
       </motion.footer>
     </motion.div>

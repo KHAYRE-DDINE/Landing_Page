@@ -7,8 +7,11 @@ import EnglishLanding from "./EnglishLanding";
 import ArabicLanding from "./ArabicLanding";
 
 function LandingPage() {
-  const [active, setActive] = useState("student");
   const language = useContext(LanguageContext);
+  const [active, setActive] = useState(`${language === "english" ? "student" : "الطالب"}`);
+
+  console.log(active)
+  
   return (
     <React.Fragment>
       {language === "english" ? (
